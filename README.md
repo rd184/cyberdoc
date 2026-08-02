@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/JUNAYIDISLAM">
+      <a href="https://github.com/junayidislam">
         <img src="https://github.com/identicons/junayid.png" width="100px;" alt=""/>
         <br /><sub><b>Junayid Islam</b></sub>
       </a>
